@@ -24,3 +24,5 @@ Learn how to display your Markdown content with the `<nuxt-content>` component d
 [![An old rock in the desert](/images/cherries.jpg "Shiprock, New Mexico by Beau Rogers")]
 
 <img src="/images/croissant.jpg">
+
+<br>

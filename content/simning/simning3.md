@@ -7,3 +7,5 @@ date: "2021 november"
 ---
 
 Tävlade i uppsala och VSS tog totalt 36 medaljer varav 6 var guld. Jag tog alla 6 gulden och tillförde även ett silver till medalj regnet.
+
+<br>
