@@ -44,8 +44,11 @@
    Fritid
   </Nuxt-Link>
   <p class="mb-4">
-    Följd med i min fritid och se vad jag gör nör jag inte är i skolan eller simmar.
+    Följ med i min fritid och se vad jag gör när jag inte är i skolan eller simmar.
   </p>
+    <NuxtLink to="/fritid" class="hover:underline mb-12">
+    Läs om min fritid.
+  </NuxtLink>
 </div>
 </div>
 </template>

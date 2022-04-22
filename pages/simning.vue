@@ -20,7 +20,7 @@
 export default {
   name: 'IndexPage',
   async asyncData({$content}) {
-    let simning = await $content('simning').without(['body']).fetch()
+    let simning = await $content('simning').sortBy("id", "desc").without(['body']).fetch()
     return {
       simning
     }

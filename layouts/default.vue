@@ -15,7 +15,7 @@
     <div class="font-sans antialiased fixed top-0 m-0 w-full z-10" id="app">
       <nav class="flex p-6 fixed items-center justify-between flex-wrap w-screen" id="Header">
         <div class="flex items-center flex-no-shrink text-white mr-6">
-          <img class="fill-current h-8 w-8 mr-2" width="54" height="54" viewBox="0 0 54 54" src="favicon.svg" />
+          <img class="fill-current h-8 w-8 mr-2" width="54" height="54" viewBox="0 0 54 54" src="Images/logo.png" />
           <NuxtLink to="/" class="font-semibold text-xl tracking-tight">gustavlofqvist.se</NuxtLink>
         </div>
         <div class="block sm:hidden">

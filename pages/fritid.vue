@@ -20,7 +20,7 @@
 export default {
   name: 'IndexPage',
   async asyncData({$content}) {
-    let fritid = await $content('fritid').without(['body']).fetch()
+    let fritid = await $content('fritid').sortBy("id", "desc").without(['body']).fetch()
     return {
       fritid
     }

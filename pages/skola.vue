@@ -20,7 +20,7 @@
 export default {
   name: 'IndexPage',
   async asyncData({$content}) {
-    let skola = await $content('skola').without(['body']).fetch()
+    let skola = await $content('skola').sortBy("id", "desc").without(['body']).fetch()
     return {
       skola
     }
