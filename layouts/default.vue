@@ -15,7 +15,7 @@
     <div class="font-sans antialiased fixed top-0 m-0 w-full z-10" id="app">
       <nav class="flex p-6 fixed items-center justify-between flex-wrap w-screen" id="Header">
         <div class="flex items-center flex-no-shrink text-white mr-6">
-          <img class="fill-current h-8 w-8 mr-2" width="54" height="54" viewBox="0 0 54 54" src="../Assets/Images/logo.png" />
+          <img class="fill-current h-8 w-8 mr-2" width="54" height="54" viewBox="0 0 54 54" src="Images/logo.png" />
           <NuxtLink to="/" class="font-semibold text-xl tracking-tight">gustavlofqvist.se</NuxtLink>
         </div>
         <div class="block sm:hidden">
@@ -58,17 +58,17 @@
                                 <h2 style="font-family: 'Baloo Tamma 2', cursive;"
                                     class="font-bold text-xl text-gray-100 mb-4">Hitta mig</h2>
                                  <div id="box" class="text-gray-500 m-1" style="cursor: pointer;" onclick="window.location='https://www.facebook.com/Gustav.Lofqvist';">
-                                      <img width="50vw" src="../static/ContactLogos/Facebooklogo.png">
+                                      <img width="50vw" src="ContactLogos/Facebooklogo.png">
                                       <span class="hover:text-red-300">&nbsp;&nbsp;Gustav&nbsp;Löfqvist</span>
                                     </div> 
 
                                     <div id="box" class="text-gray-500 m-1" style="cursor: pointer;" onclick="window.location='https://www.instagram.com/gustavlofqvist/';">
-                                      <img width="50vw" src="../static/ContactLogos/Instagramlogo.png">
+                                      <img width="50vw" src="ContactLogos/Instagramlogo.png">
                                       <span class="hover:text-red-300">&nbsp;&nbsp;Gustav&nbsp;Löfqvist</span>
                                     </div> 
 
                                     <div id="box" class="text-gray-500 m-1">
-                                      <img width="50vw" src="../static/ContactLogos/Snapchatlogo.png">
+                                      <img width="50vw" src="ContactLogos/Snapchatlogo.png">
                                       <span class="hover:text-red-300" >&nbsp;&nbsp;Gustav.Lofqvist</span>
                                     </div> 
                             </div>

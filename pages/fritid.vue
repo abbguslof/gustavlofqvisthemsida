@@ -12,7 +12,7 @@
 
 <style scoped>
 .custom-img {
-  background-image: url(../Assets\Background\backgroundsimning.jpg);
+  background-image: url(static/background\backgroundsimning.jpg);
 }
 </style>
 

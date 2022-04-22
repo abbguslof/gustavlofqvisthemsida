@@ -1,8 +1,9 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+  ssr: 'true',
   router: {
-    base: '/blogg/'
+    base: '/'
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
@@ -35,8 +36,15 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
-    // https://go.nuxtjs.dev/tailwindcss
+    // https://go.nuxtjs.dev/typescript
     '@nuxtjs/tailwindcss',
+    [
+      '@nuxt/image',
+      {
+        provider: 'static',
+      },
+    ],
+
   ],
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
