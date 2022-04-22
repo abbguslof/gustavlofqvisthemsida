@@ -52,7 +52,7 @@
 
 <style scoped>
 .first-img {
-  background-image: url("static/images/sumsimguld.JPEG");
+  background-image: url("static/images/sumsimguld.png");
   max-width: 100vw;
 }
 .second-img {
