@@ -157,7 +157,7 @@ export default {
         let scrollpos = window.scrollY
 
         open.classList.toggle("hidden")
-        open.classList.toggle("bg-black")
+          
       
         this.HeaderChecked = !this.HeaderChecked
 
@@ -175,7 +175,7 @@ export default {
 
         const add_class_on_scroll = () => header.classList.add("fade-in")
         const remove_class_on_scroll = () => header.classList.remove("fade-in")
-
+          
         scrollpos = window.scrollY
 
         if (scrollpos >= 1) { add_class_on_scroll() }

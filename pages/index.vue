@@ -10,7 +10,7 @@
    Simning
   </Nuxt-Link>
   <p class="mb-4">
-    Jag simmar för Västeråssimsällskap, känt som VSS, och har genom åren klätrat mig i den nationella rankingen. Min hitills bästa prestation är en sjätte plats på ungdoms-sm vilket är något jag är väldigt stolt över.
+    Jag simmar för Västerås simsällskap, känt som VSS, och har genom åren klättrat mig i den nationella rankingen. Min hitills bästa prestation är en sjätte plats på ungdoms-sm vilket är något jag är väldigt stolt över.
   </p>
   <NuxtLink to="/simning" class="hover:underline mb-12">
     Läs om min sim karriär och följ mina senaste prestationer.
@@ -27,7 +27,7 @@
    Skola
   </Nuxt-Link>
   <p class="mb-4">
-    Jag går på Abbs gymnasieskola och där läser jag programmet Teknikspets. 
+    Jag går på Abbs gymnasieskola och där jag läser inriktnigen Teknikspets. 
   </p>
   <NuxtLink to="/skola" class="hover:underline mb-12">
     Läs om min skolgång och följ mina senaste projekt.
@@ -44,7 +44,7 @@
    Fritid
   </Nuxt-Link>
   <p class="mb-4">
-    Följ med i min fritid och se vad jag gör när jag inte är i skolan eller simmar.
+    Följ med i min fritid och se vad japg gör när jag inte är i skolan eller simmar.
   </p>
     <NuxtLink to="/fritid" class="hover:underline mb-12">
     Läs om min fritid.
