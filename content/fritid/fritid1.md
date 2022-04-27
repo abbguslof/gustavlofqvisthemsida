@@ -7,5 +7,6 @@ date: "2021"
 place: "Skerike"
 ---
 
-Under sommarlovet började jag spela golf. Mycket ilska, men väldigt roligt under vissa perioder.
+Under sommarlovet började jag spela **golf**. Mycket ilska, men väldigt **roligt** under vissa perioder. Spelar golf med mina simmar-vänner och har via golfen stärkt våran relation med varandra. Jag snittade **36 runder varje dag** under en 4 veckors period, under hela sommarlovet blev det cirka 400 spelade hål. Har nuvarande ett handicap på **24**.
+
 <br>

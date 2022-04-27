@@ -7,6 +7,6 @@ date: "2021"
 place: "ABB Gymnasiet"
 ---
 
-Det andra projektet jag gjorde i skolan. Vi designade lampor och styrde dem via en egen gjord hemsida.
+Det **andra projektet** jag gjorde i skolan. Vi **designade lampor** och **styrde** dem via en egen gjord **hemsida**. Mycket **roligt** projekt som min grupp tog lite vatten över huvudet på. Kämpade på hårt och lärde oss massor men valde att **försöka implementera lite för svåra funktioner**. Lampan sitter uppe och fungerar än idag men har tyvärr en väldigt protoypisk kontrollering och backend kod.
 
 <br>
